@@ -1,4 +1,4 @@
-# Project-object-detection
+# Project object detection
 
 
 During this project, we tried to make a machine learning model to recognize objects such as pedestrians and vehicles in an urban setting.
